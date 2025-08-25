@@ -1,4 +1,4 @@
-palavra = input("Digite a palavra a ser analisada: ")
+palavra = input("Digite a palavra a ser analisada: ").lower()
 vogais = 0
 
 for letra in palavra:
