@@ -1,4 +1,4 @@
-contador = 0
+contador = 1
 num = int(input("Digite o número: "))
 
 while contador <= 10:
